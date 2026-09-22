@@ -266,6 +266,14 @@ npx wscat -c ws://localhost:8080
 ---
 
 
+## 🎥 Proof of Work
+
+The screenshot below demonstrates the WebSocket server running with multiple clients connected and exchanging real-time messages.
+
+![Proof of Work](Screenshot%202026-09-22%20232403.png)
+
+---
+
 ## 📄 License
 
 ISC
