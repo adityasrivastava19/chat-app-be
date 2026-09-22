@@ -267,9 +267,9 @@ npx wscat -c ws://localhost:8080
 
 ## 🎥 Proof of Work
 
-The video below demonstrates a live session with multiple WebSocket clients joining a room and exchanging real-time messages.
+The demo below shows multiple WebSocket clients joining a room and exchanging real-time messages. Click the thumbnail to watch the video.
 
-<video src="https://github.com/adityasrivastava19/chat-app-be/raw/main/2026-09-22%2022-55-36.mp4" controls width="100%"></video>
+[![Watch the demo](demo_thumbnail.jpg)](https://github.com/adityasrivastava19/chat-app-be/raw/main/2026-09-22%2022-55-36.mp4)
 
 ---
 
