@@ -269,18 +269,7 @@ npx wscat -c ws://localhost:8080
 
 The video below demonstrates a live session with multiple WebSocket clients joining a room and exchanging real-time messages.
 
-<!-- 
-  HOW TO EMBED THE VIDEO ON GITHUB:
-  1. Open any GitHub Issue or Pull Request in this repo
-  2. Drag and drop  "2026-09-22 22-55-36.mp4"  into the comment box
-  3. Wait for the upload to finish — GitHub will generate a URL like:
-       https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
-  4. Replace the src URL below with that link, then delete this comment block
--->
-
-<video src="https://github.com/user-attachments/assets/YOUR-VIDEO-ID-HERE" controls width="100%"></video>
-
-> **Note for maintainers:** Replace the `src` above with the GitHub CDN URL after uploading via a GitHub Issue/PR comment (drag & drop the `.mp4`). GitHub supports videos up to 100 MB this way.
+<video src="https://github.com/adityasrivastava19/chat-app-be/raw/main/2026-09-22%2022-55-36.mp4" controls width="100%"></video>
 
 ---
 
